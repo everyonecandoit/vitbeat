@@ -2,12 +2,12 @@
 <br/>
 to run frontend do 
 <br/>
-1. npm i
+1. npm i <br/>
 2. npm start
 <br/>
-to connect backend 
-create a .env file 
-MONGOURL = "add ur coneectino string "
+to connect backend <br/>
+create a .env file <br/>
+MONGOURL = "add ur connection string "
 <br/>
 then do npm i 
 nodemon index.js to connect backend
