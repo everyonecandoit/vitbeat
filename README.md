@@ -9,7 +9,7 @@ to connect backend <br/>
 create a .env file <br/>
 MONGOURL = "add ur connection string "
 <br/>
-then do npm i 
+then do npm i  <br/>
 nodemon index.js to connect backend
 
 <br/>
